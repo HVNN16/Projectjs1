@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "10",
+      "name": "Hoc HTML",
+      "status": true,
+      "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data."
+    },
+    {
+      "id": "11",
+      "name": "Hoc CSS",
+      "status": false,
+      "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data."
+    },
+    {
+      "id": "112",
+      "name": "Hoc JS",
+      "status": true,
+      "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data."
+    },
+    {
+      "id": "13",
+      "name": "Hoc ReactJS",
+      "status": true,
+      "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data."
+    },
+    {
+      "id": "14",
+      "name": "Hoc Nodejs",
+      "status": false,
+      "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data."
+    }
+  ]
+}
